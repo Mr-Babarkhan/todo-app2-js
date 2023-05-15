@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#todoInput{
+    outline: none;
+}
+
+body{
+    background:linear-gradient(to right ,green , green);
+}
+
+.btn1{
+    margin-left: 25%;
+    border-radius: 10px;
+    border:none;
+    background-color: yellow;
+    color: black;
+}
+.btn2{
+    border-radius: 10px;
+    border:none;
+    background-color: red;
+    color:white;
+}
+
